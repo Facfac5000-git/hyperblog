@@ -1,0 +1,4 @@
+Archivo de texto de prueba
+
+Esta es la historia del curso de git
+
