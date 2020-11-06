@@ -2,5 +2,8 @@ Archivo de texto de prueba
 
 Esta es la historia del curso de git
 
+Potencial error de proyecto
+
+
 Comenzaremos conociendo los origenes de git
 
