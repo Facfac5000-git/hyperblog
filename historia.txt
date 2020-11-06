@@ -6,5 +6,7 @@ Potencial error de proyecto corregido
 
 Experimento 1
 
+Experimento 2
+
 Comenzaremos conociendo los origenes de git
 
