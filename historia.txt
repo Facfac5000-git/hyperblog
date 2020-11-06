@@ -4,6 +4,7 @@ Esta es la historia del curso de git
 
 Potencial error de proyecto corregido
 
+Experimento 1
 
 Comenzaremos conociendo los origenes de git
 
